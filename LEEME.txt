@@ -1,0 +1,11 @@
+MIS FINANZAS - app instalable (PWA)
+
+Subi TODOS estos archivos juntos a un hosting con HTTPS, BORRANDO antes los viejos
+(sobre todo cualquier icon-192*.png / icon-512*.png anterior que haya quedado).
+Desinstalá la app vieja del celular antes de instalar esta version
+(mantener presionado el icono > Desinstalar).
+Despues abri la direccion en Chrome > menu (3 puntos) > "Instalar app".
+
+ACCESO RAPIDO PARA CARGAR MOVIMIENTOS:
+Mantene presionado el icono de la app instalada. Deberia aparecer "Agregar movimiento",
+que abre directo el formulario de carga, sin PIN ni huella aunque el bloqueo este activado.
